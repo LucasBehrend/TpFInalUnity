@@ -27,6 +27,7 @@ public class CollisionAreaScript : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        //nel.SetActive(false);
 
     }
 
@@ -77,11 +78,14 @@ public class CollisionAreaScript : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
-        panel.SetActive(true);
-        isColliding = true;
-        txtCollisionInfo.text = collision.gameObject.name;
-        colisionador = collision.gameObject;
-        mostrarUI(collision.gameObject.name);
+        if (collision.gameObject.name == "Boleadora" || collision.gameObject.name == "Caballo" || collision.gameObject.name == "Guitarra" || collision.gameObject.name == "Botella" || collision.gameObject.name == "Pistola" || collision.gameObject.name == "Mate")
+        {
+            panel.SetActive(true);
+            isColliding = true;
+            txtCollisionInfo.text = collision.gameObject.name;
+            colisionador = collision.gameObject;
+            mostrarUI(collision.gameObject.name);
+        }
     }
     private void OnCollisionExit(Collision collision)
     {
