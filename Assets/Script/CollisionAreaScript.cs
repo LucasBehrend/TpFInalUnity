@@ -13,7 +13,7 @@ public class CollisionAreaScript : MonoBehaviour
     GameObject caballo;
     public Transform targetTR;
     public float speed;
-    public AudioSource audioSource;
+    public static AudioSource audioSource;
     public AudioClip HorseSound;
     public AudioClip GuitarSound;
     public AudioClip GunSound;
@@ -52,7 +52,7 @@ public class CollisionAreaScript : MonoBehaviour
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoPistola = true;
-                GunAudio();
+                ReloadAudio();
             }
             if (colisionador.name == "Caballo")
             {

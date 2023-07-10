@@ -17,7 +17,7 @@ public class Timer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        audioSource = CollisionAreaScript.audioSource ;
         panelPerdiste.SetActive(false);
         txtPerdiste.gameObject.SetActive(false);
     }
@@ -28,7 +28,7 @@ public class Timer : MonoBehaviour
         Debug.Log(Time.deltaTime);
 
         currentSec -= Time.deltaTime;
-        if (currentSec <= 10 && currentMin <= 0)
+        if (currentSec == 10 && currentMin == 0)
         {
             AudioDiezSeg();
         }
@@ -39,13 +39,14 @@ public class Timer : MonoBehaviour
             currentSec = 59;
         }
 
-        if (currentSec <= 0 && currentMin <= 0)
+        if (currentMin < 0)
         {
             currentMin = 0;
             currentSec = 0;
             //player.SetActive(false);
             panelPerdiste.SetActive(true);
             txtPerdiste.gameObject.SetActive(true);
+            txtPerdiste.text = "PERDISTE. Se te acabó el tiempo.";
         }
         txtTimer.text = currentMin.ToString() + ":" + currentSec.ToString("0");
     }
