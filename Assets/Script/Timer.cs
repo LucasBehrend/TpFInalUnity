@@ -25,8 +25,6 @@ public class Timer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(Time.deltaTime);
-
         currentSec -= Time.deltaTime;
         if (currentSec == 10 && currentMin == 0)
         {

@@ -41,18 +41,21 @@ public class CollisionAreaScript : MonoBehaviour
                 Destroy(colisionador);
                 ObjetosManager.tengoBoleadoras = true;
                 BoleadoraAudio();
+                hidePanelandText();
             }
             if (colisionador.name == "Guitarra")
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoGuitarra = true;
                 GuitarAudio();
+                hidePanelandText();
             }
             if (colisionador.name == "Pistola")
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoPistola = true;
                 ReloadAudio();
+                hidePanelandText();
             }
             if (colisionador.name == "Caballo")
             {
@@ -60,18 +63,21 @@ public class CollisionAreaScript : MonoBehaviour
                 ObjetosManager.tengoCaballo = true;
                 turnToLookAt();
                 HorseAudio();
+                hidePanelandText();
             }
             if (colisionador.name == "Botella")
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoBotella = true;
                 AlcoholAudio();
+                hidePanelandText();
             }
             if (colisionador.name == "Mate")
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoMate = true;
                 MateAudio();
+                hidePanelandText();
             }
         }
 
@@ -142,5 +148,10 @@ public class CollisionAreaScript : MonoBehaviour
     {
         audioSource.clip = MateSound;
         audioSource.Play();
+    }
+    void hidePanelandText()
+    {
+        panel.SetActive(false);
+        txtCollisionInfo.gameObject.SetActive(false);
     }
 }

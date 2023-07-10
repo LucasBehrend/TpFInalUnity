@@ -18,7 +18,10 @@ public class Bullet : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        Destroy(gameObject);
+        if (collision.gameObject.name != "CollisionArea")
+        {
+            Destroy(gameObject);
+        }
         if(collision.gameObject.name == "Espantapajaros")
         {
             Destroy(collision.gameObject);

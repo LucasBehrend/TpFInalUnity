@@ -16,17 +16,15 @@ public class Gun : MonoBehaviour
     }
     void Update()
     {
-        if (currReloadTime > 0)
-        {
-            currReloadTime -= Time.deltaTime;
-        }
+        
         if (Input.GetKeyDown(KeyCode.Mouse0) && ObjetosManager.tengoPistola)
         {
             Instantiate(bullet, bulletSpawn.position, bulletSpawn.rotation);
+            Debug.Log("Disparo");
             //b.transform.eulerAngles += new Vector3(Random.Range(-inacuracy, inacuracy), Random.Range(-inacuracy, inacuracy), Random.Range(-inacuracy, inacuracy));
             //esta linea esta por si quieren hacer que la bala tenga cierta impresicion
             //en su salida. Solo la roto en x y z al azar
-            currReloadTime = reloadTime;
+            
         }
     }
 }
