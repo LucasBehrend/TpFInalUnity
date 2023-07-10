@@ -60,11 +60,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CollisionAreaScript.cs" />
-    <Compile Include="Assets\Scripts\DialogosIndex.cs" />
-    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
-    <Compile Include="Assets\Scripts\Timer.cs" />
-    <Compile Include="Assets\Scripts\TurnToLookAt.cs" />
+    <Compile Include="Assets\Script\CollisionAreaScript.cs" />
+    <Compile Include="Assets\Script\DialogosIndex.cs" />
+    <Compile Include="Assets\Script\EnemyMovement.cs" />
+    <Compile Include="Assets\Script\ObjetosManager.cs" />
+    <Compile Include="Assets\Script\Salida.cs" />
+    <Compile Include="Assets\Script\Timer.cs" />
+    <Compile Include="Assets\Script\TurnToLookAt.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
