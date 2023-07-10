@@ -17,11 +17,11 @@ public class DialogosIndex : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Mouse1))
+        if (Input.GetKeyDown(KeyCode.RightAlt))
         {
             NextSentence();
         }
-        else if (Input.GetKeyDown(KeyCode.Mouse0))
+        else if (Input.GetKeyDown(KeyCode.LeftAlt))
         {
             PreviousSentence();
         }
@@ -33,9 +33,10 @@ public class DialogosIndex : MonoBehaviour
             currentIndex++;
             Indextxt.text = txtindex[currentIndex];
         }
-        else
+        else if (currentIndex == txtindex.Length)
         {
             Indextxt.text = string.Empty;
+            Destroy(Indextxt);
         }
     }
     public void PreviousSentence()

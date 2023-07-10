@@ -154,4 +154,5 @@ public class CollisionAreaScript : MonoBehaviour
         panel.SetActive(false);
         txtCollisionInfo.gameObject.SetActive(false);
     }
+   
 }

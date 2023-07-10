@@ -157,7 +157,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 27
+      value: 87
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -177,7 +177,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (7)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -226,7 +226,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -287,7 +287,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 55
+      value: 136
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -307,7 +307,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (1)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -356,7 +356,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 29
+      value: 89
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -376,7 +376,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (9)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -425,7 +425,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 141
+      value: 122
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -445,7 +445,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (96)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -494,7 +494,7 @@ PrefabInstance:
     - target: {fileID: 220752232469122633, guid: cf27d8cebbb059049837ade32d397be6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 220752232469122633, guid: cf27d8cebbb059049837ade32d397be6,
         type: 3}
@@ -514,7 +514,7 @@ PrefabInstance:
     - target: {fileID: 220752232469353065, guid: cf27d8cebbb059049837ade32d397be6,
         type: 3}
       propertyPath: m_Name
-      value: Boleadora (1)
+      value: Boleadora
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf27d8cebbb059049837ade32d397be6, type: 3}
@@ -563,7 +563,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 149
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -632,7 +632,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 70
+      value: 67
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -652,7 +652,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (40)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -701,7 +701,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 98
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -721,7 +721,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (18)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -770,7 +770,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 74
+      value: 71
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -790,7 +790,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (44)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -839,7 +839,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 144
+      value: 146
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -908,7 +908,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 33
+      value: 93
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -928,7 +928,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (15)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -977,7 +977,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 67
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -997,7 +997,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (37)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1046,7 +1046,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 50
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1066,7 +1066,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (30)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1115,7 +1115,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 121
+      value: 58
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1135,7 +1135,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (76)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1206,7 +1206,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &189611102
 PrefabInstance:
@@ -1253,7 +1253,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 79
+      value: 133
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -1273,7 +1273,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (12)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -1322,7 +1322,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 71
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1342,7 +1342,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (41)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1391,7 +1391,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 66
+      value: 63
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1411,7 +1411,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (36)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1460,7 +1460,7 @@ PrefabInstance:
     - target: {fileID: 220752232469122633, guid: cf27d8cebbb059049837ade32d397be6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 220752232469122633, guid: cf27d8cebbb059049837ade32d397be6,
         type: 3}
@@ -1529,7 +1529,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 85
+      value: 47
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1549,7 +1549,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (50)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1753,7 +1753,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 133
+      value: 114
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1773,7 +1773,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (88)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -1807,7 +1807,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &343005877
 MonoBehaviour:
@@ -1970,7 +1970,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 32
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -1990,7 +1990,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (14)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2039,7 +2039,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 122
+      value: 125
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2059,7 +2059,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (77)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2108,7 +2108,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 83
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2128,7 +2128,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (48)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2264,7 +2264,7 @@ PrefabInstance:
     - target: {fileID: 8412740086551961085, guid: a8f8e9bcc326dea449feff7c224ac57a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8412740086551961085, guid: a8f8e9bcc326dea449feff7c224ac57a,
         type: 3}
@@ -2333,7 +2333,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 63
+      value: 138
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -2353,7 +2353,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (8)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -2402,7 +2402,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 137
+      value: 118
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2422,7 +2422,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (92)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2471,7 +2471,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 44
+      value: 104
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2491,7 +2491,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (24)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2540,7 +2540,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 42
+      value: 102
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2560,7 +2560,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (22)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2609,7 +2609,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 107
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2629,7 +2629,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (66)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2678,7 +2678,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 120
+      value: 57
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2698,7 +2698,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (75)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2800,7 +2800,7 @@ RectTransform:
   - {fileID: 615813888}
   - {fileID: 863025681}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2852,7 +2852,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 116
+      value: 55
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2872,7 +2872,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (73)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2921,7 +2921,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 134
+      value: 115
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -2941,7 +2941,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (89)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -2990,7 +2990,7 @@ PrefabInstance:
     - target: {fileID: 6282742943650610356, guid: f231ccdcf11752247b2510e76bc3d5ca,
         type: 3}
       propertyPath: m_RootOrder
-      value: 113
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 6282742943650610356, guid: f231ccdcf11752247b2510e76bc3d5ca,
         type: 3}
@@ -3010,7 +3010,7 @@ PrefabInstance:
     - target: {fileID: 6282742943650766996, guid: f231ccdcf11752247b2510e76bc3d5ca,
         type: 3}
       propertyPath: m_Name
-      value: Guitarra (1)
+      value: Guitarra
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f231ccdcf11752247b2510e76bc3d5ca, type: 3}
@@ -3059,7 +3059,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 152
+      value: 153
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -3128,7 +3128,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 118
+      value: 56
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -3148,7 +3148,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (74)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -3197,7 +3197,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 94
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -3217,7 +3217,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (57)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -3266,7 +3266,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 78
+      value: 132
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -3286,7 +3286,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (11)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -3527,7 +3527,7 @@ PrefabInstance:
     - target: {fileID: 287437012299957021, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
       propertyPath: m_Name
-      value: Pistola (1)
+      value: Pistola
       objectReference: {fileID: 0}
     - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
@@ -3567,7 +3567,7 @@ PrefabInstance:
     - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
@@ -3631,7 +3631,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 105
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -3651,7 +3651,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (64)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -3753,7 +3753,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 117
+      value: 144
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -3773,7 +3773,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (17)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -3822,7 +3822,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 112
+      value: 53
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -3842,7 +3842,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (71)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -3891,7 +3891,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 124
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -3911,7 +3911,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (79)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -3960,7 +3960,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 56
+      value: 139
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -3980,7 +3980,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (2)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -4184,7 +4184,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 108
+      value: 49
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -4204,7 +4204,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (67)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -4218,7 +4218,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.999996
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -4253,7 +4253,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 146
+      value: 148
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -4322,7 +4322,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 93
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -4342,7 +4342,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (56)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -4374,7 +4374,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &780190366
 PrefabInstance:
@@ -4421,7 +4421,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 26
+      value: 86
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -4441,7 +4441,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (6)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -4490,7 +4490,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 37
+      value: 97
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -4510,7 +4510,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (10)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -4559,7 +4559,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 54
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -4628,7 +4628,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 123
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -4648,7 +4648,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (78)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -4697,7 +4697,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 62
+      value: 137
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -4717,7 +4717,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (7)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -4838,7 +4838,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 102
+      value: 134
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -4858,7 +4858,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (15)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -5062,7 +5062,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 89
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5082,7 +5082,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (53)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5131,7 +5131,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 147
+      value: 149
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -5200,7 +5200,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 61
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -5269,7 +5269,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 45
+      value: 105
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5289,7 +5289,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (25)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5377,7 +5377,7 @@ PrefabInstance:
     - target: {fileID: 3838605574234811597, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
       propertyPath: m_Name
-      value: Botella (1)
+      value: Botella
       objectReference: {fileID: 0}
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
@@ -5387,7 +5387,7 @@ PrefabInstance:
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.271065e-18
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
@@ -5417,7 +5417,7 @@ PrefabInstance:
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
       propertyPath: m_RootOrder
-      value: 153
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
@@ -5481,7 +5481,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 148
+      value: 124
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5501,7 +5501,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (98)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5550,7 +5550,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 125
+      value: 73
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5570,7 +5570,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (80)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5664,7 +5664,7 @@ Transform:
   m_LocalScale: {x: 15.611012, y: 1, z: 24.812414}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1049642283
 PrefabInstance:
@@ -5711,7 +5711,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 90
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -5731,7 +5731,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (13)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -5800,7 +5800,7 @@ Transform:
   m_LocalScale: {x: 4.1510286, y: 1.7856785, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1106358248
 MonoBehaviour:
@@ -5861,7 +5861,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 25
+      value: 85
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5881,7 +5881,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (5)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5930,7 +5930,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 72
+      value: 69
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -5950,7 +5950,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (42)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -5999,7 +5999,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 53
+      value: 113
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6019,7 +6019,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (33)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6068,7 +6068,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 99
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6088,7 +6088,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (19)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6137,7 +6137,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 36
+      value: 96
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6157,7 +6157,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (17)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6206,7 +6206,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 30
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6226,7 +6226,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (11)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6275,7 +6275,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 114
+      value: 54
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6295,7 +6295,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (72)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6344,7 +6344,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 100
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6364,7 +6364,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (62)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6413,7 +6413,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 64
+      value: 61
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6433,7 +6433,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (34)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6482,7 +6482,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 41
+      value: 101
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6502,7 +6502,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (21)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6551,7 +6551,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 60
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -6620,7 +6620,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 129
+      value: 77
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6640,7 +6640,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (84)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6689,7 +6689,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 106
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6709,7 +6709,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (65)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6758,7 +6758,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 150
+      value: 151
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -6827,7 +6827,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 91
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6847,7 +6847,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (54)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6896,7 +6896,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 40
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6916,7 +6916,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (20)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -6965,7 +6965,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 109
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -6985,7 +6985,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (68)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7034,7 +7034,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 82
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7054,7 +7054,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (2)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7103,7 +7103,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 96
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7123,7 +7123,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (59)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7172,7 +7172,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 126
+      value: 74
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7192,7 +7192,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (81)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7241,7 +7241,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 110
+      value: 51
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7261,7 +7261,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (69)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7310,7 +7310,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 28
+      value: 88
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7330,7 +7330,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (8)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7399,7 +7399,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: Esquina (1)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -7448,7 +7448,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 128
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7468,7 +7468,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (83)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7517,7 +7517,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 35
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7537,7 +7537,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (16)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7586,7 +7586,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 48
+      value: 108
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7606,7 +7606,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (28)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7655,7 +7655,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 135
+      value: 116
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7675,7 +7675,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (90)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7724,7 +7724,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 46
+      value: 106
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7744,7 +7744,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (26)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -7793,7 +7793,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 58
+      value: 141
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -7813,7 +7813,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (4)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -7868,7 +7868,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 68
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -7888,7 +7888,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (38)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8137,7 +8137,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 101
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8157,7 +8157,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (63)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8206,7 +8206,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 139
+      value: 120
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8226,7 +8226,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (94)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8275,7 +8275,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 82
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8295,7 +8295,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (47)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8356,7 +8356,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 31
+      value: 91
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8376,7 +8376,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (13)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8425,7 +8425,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 92
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8445,7 +8445,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (55)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8494,7 +8494,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 143
+      value: 145
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -8563,7 +8563,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 51
+      value: 111
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8583,7 +8583,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (31)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8632,7 +8632,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 49
+      value: 109
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8652,7 +8652,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (29)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8701,7 +8701,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 81
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8721,7 +8721,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (1)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8770,7 +8770,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 75
+      value: 72
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8790,7 +8790,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (45)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8839,7 +8839,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 84
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8859,7 +8859,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (4)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8908,7 +8908,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 131
+      value: 79
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8928,7 +8928,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (86)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -8977,7 +8977,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 34
+      value: 94
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -8997,7 +8997,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (12)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9046,7 +9046,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 136
+      value: 117
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9066,7 +9066,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (91)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9115,7 +9115,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 97
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9135,7 +9135,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (60)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9184,7 +9184,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 65
+      value: 62
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9204,7 +9204,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (35)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9253,7 +9253,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 84
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9273,7 +9273,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (49)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9287,7 +9287,7 @@ PrefabInstance:
     - target: {fileID: 616683739885503217, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_Name
-      value: Caballo (1)
+      value: Caballo
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -9327,7 +9327,7 @@ PrefabInstance:
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_RootOrder
-      value: 81
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -9393,7 +9393,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 140
+      value: 121
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9413,7 +9413,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (95)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9447,7 +9447,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 3794104923965327706, guid: 725486f2bc36fa14ea1e33ebb6c4a1e5, type: 3}
-  bulletSpawn: {fileID: 1513771003}
+  bulletSpawn: {fileID: 1962063288}
   reloadTime: 0
   inacuracy: 0
 --- !u!4 &1804077128
@@ -9462,7 +9462,7 @@ Transform:
   m_LocalScale: {x: 4.1510286, y: 1.7856785, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1838050962
 PrefabInstance:
@@ -9509,7 +9509,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 76
+      value: 130
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -9529,7 +9529,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (9)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -9578,7 +9578,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 52
+      value: 112
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9598,7 +9598,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (32)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9647,7 +9647,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 111
+      value: 52
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9667,7 +9667,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (70)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9716,7 +9716,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 115
+      value: 135
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -9736,7 +9736,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (16)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -9785,7 +9785,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 95
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9805,7 +9805,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (58)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9860,7 +9860,7 @@ PrefabInstance:
     - target: {fileID: 6282742943650610356, guid: f231ccdcf11752247b2510e76bc3d5ca,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 6282742943650610356, guid: f231ccdcf11752247b2510e76bc3d5ca,
         type: 3}
@@ -9929,7 +9929,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 132
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -9949,7 +9949,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (87)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -9998,7 +9998,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 86
+      value: 48
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10018,7 +10018,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (51)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10067,7 +10067,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 142
+      value: 123
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10087,7 +10087,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (97)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10136,7 +10136,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 145
+      value: 147
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -10205,7 +10205,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 130
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10225,7 +10225,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (85)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10274,7 +10274,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 103
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -10343,7 +10343,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 138
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10363,7 +10363,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (93)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10412,7 +10412,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 77
+      value: 131
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -10432,7 +10432,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (10)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -10481,7 +10481,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 47
+      value: 107
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10501,10 +10501,40 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (27)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
+--- !u!1 &1962063287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1962063288}
+  m_Layer: 0
+  m_Name: DISPARO
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1962063288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962063287}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1599331121}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1971245110
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10550,7 +10580,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 88
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10570,7 +10600,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (52)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10619,7 +10649,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 80
+      value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -10639,7 +10669,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (46)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -10688,7 +10718,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 119
+      value: 143
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -10708,7 +10738,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (18)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -10757,7 +10787,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 59
+      value: 142
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -10777,7 +10807,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (5)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -10839,7 +10869,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2019857837
 PrefabInstance:
@@ -10886,7 +10916,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 104
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -10974,7 +11004,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2061636346
 PrefabInstance:
@@ -11021,7 +11051,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 127
+      value: 75
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11041,7 +11071,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (82)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11090,7 +11120,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11110,7 +11140,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (3)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11159,7 +11189,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 73
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11179,7 +11209,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (43)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11228,7 +11258,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 98
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11248,7 +11278,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (61)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11297,7 +11327,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 43
+      value: 103
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11317,7 +11347,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (23)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11366,7 +11396,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 57
+      value: 140
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -11386,7 +11416,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (3)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -11435,7 +11465,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 151
+      value: 152
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -11504,7 +11534,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 69
+      value: 66
       objectReference: {fileID: 0}
     - target: {fileID: 8276528248890051173, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
@@ -11524,7 +11554,7 @@ PrefabInstance:
     - target: {fileID: 8276528248890086981, guid: 4fcf53a29a4a12844a49a1e3f397a93a,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (39)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
@@ -11573,7 +11603,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 99
+      value: 126
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -11593,7 +11623,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (14)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -11642,7 +11672,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 87
+      value: 129
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -11662,7 +11692,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: BehrendLucas_4toB_EsquinaLaberinto 1 (6)
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -11711,7 +11741,7 @@ PrefabInstance:
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1431740871122377223, guid: c8aa4cc067d1d0b4d9059e3d19b43483,
         type: 3}
@@ -11805,7 +11835,7 @@ PrefabInstance:
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -11876,7 +11906,7 @@ PrefabInstance:
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 3838605574235107565, guid: 57861aefb32120d4cb5bdfc5ffb17738,
         type: 3}
@@ -11940,7 +11970,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 128
       objectReference: {fileID: 0}
     - target: {fileID: 4098776467268275753, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
@@ -11960,7 +11990,7 @@ PrefabInstance:
     - target: {fileID: 4098776467268571657, guid: e9e009d84973ab148ac873abd94aaf61,
         type: 3}
       propertyPath: m_Name
-      value: Esquina 1
+      value: Esquina
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
@@ -12019,7 +12049,7 @@ PrefabInstance:
     - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
         type: 3}
