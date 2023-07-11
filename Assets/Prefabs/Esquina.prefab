@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 4098776467268275753}
   - component: {fileID: 4098776467271699977}
   - component: {fileID: 4098776467270569161}
-  - component: {fileID: 64426795412600900}
+  - component: {fileID: 45918059061254988}
+  - component: {fileID: 64300431151788632}
   m_Layer: 0
   m_Name: Esquina
   m_TagString: Untagged
@@ -119,7 +120,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &64426795412600900
+--- !u!45 &45918059061254988
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4098776467268571657}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 0}
+--- !u!64 &64300431151788632
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
