@@ -18,7 +18,7 @@ public class Bullet : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.name != "CollisionArea" && collision.gameObject.name != "FirstPersonCharacter")
+        if (collision.gameObject.name != "CollisionArea" && collision.gameObject.name != "FirstPersonCharacter" && collision.gameObject.name != "miPistola")
         {
             Destroy(gameObject);
         }

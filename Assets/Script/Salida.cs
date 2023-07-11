@@ -15,7 +15,7 @@ public class Salida : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("chau jero");
+
     }
 
     // Update is called once per frame
@@ -31,6 +31,7 @@ public class Salida : MonoBehaviour
             txtGanaste.gameObject.SetActive(true);
             panelGanaste.SetActive(true);
             txtGanaste.text = "¡Felicidades! Escapaste del laberinto.";
+            VictoryAudio();
         }
         else
         {

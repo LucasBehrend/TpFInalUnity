@@ -381,7 +381,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (6)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -678,6 +678,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 94770923}
   m_CullTransparentMesh: 0
+--- !u!1 &101209690 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 287437012299957021, guid: 097c3b72d192da440a505db6b625ad79,
+    type: 3}
+  m_PrefabInstance: {fileID: 985696791}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &101209691 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+    type: 3}
+  m_PrefabInstance: {fileID: 985696791}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &122000438
 GameObject:
   m_ObjectHideFlags: 0
@@ -821,7 +833,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (5)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -1256,51 +1268,6 @@ RectTransform:
   m_AnchoredPosition: {x: 1525.2695, y: -28.085022}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &313309492
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 313309493}
-  - component: {fileID: 313309495}
-  m_Layer: 0
-  m_Name: '[CABALLO]'
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &313309493
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 313309492}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1448655532}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &313309495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 313309492}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e6ad55f985393f498623a82f41a75e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetTR: {fileID: 1599331121}
 --- !u!1 &343005875
 GameObject:
   m_ObjectHideFlags: 0
@@ -1521,7 +1488,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (8)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -3182,7 +3149,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (1)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -3704,7 +3671,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (9)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -4413,7 +4380,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (12)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -5303,6 +5270,85 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57861aefb32120d4cb5bdfc5ffb17738, type: 3}
+--- !u!1001 &985696791
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1599331121}
+    m_Modifications:
+    - target: {fileID: 114891192392815820, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: bulletSpawn
+      value: 
+      objectReference: {fileID: 1501081775}
+    - target: {fileID: 287437012299957021, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_Name
+      value: miPistola
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012299957021, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0000035166736
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180.00002
+      objectReference: {fileID: 0}
+    - target: {fileID: 287437012300455741, guid: 097c3b72d192da440a505db6b625ad79,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 097c3b72d192da440a505db6b625ad79, type: 3}
 --- !u!1 &1048863557
 GameObject:
   m_ObjectHideFlags: 0
@@ -5550,6 +5596,7 @@ GameObject:
   - component: {fileID: 1106358246}
   - component: {fileID: 1106358245}
   - component: {fileID: 1106358248}
+  - component: {fileID: 1106358244}
   m_Layer: 0
   m_Name: Salida
   m_TagString: Untagged
@@ -5557,6 +5604,102 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+--- !u!82 &1106358244
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106358243}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!65 &1106358245
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5608,7 +5751,7 @@ MonoBehaviour:
   txtGanaste: {fileID: 2101410436}
   panelFaltanObj: {fileID: 616782904}
   panelGanaste: {fileID: 122000438}
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 1106358244}
   victorySound: {fileID: 8300000, guid: 6004b77ac33353e44b3ab7b88c660d96, type: 3}
 --- !u!1001 &1108513488
 PrefabInstance:
@@ -5748,6 +5891,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4fcf53a29a4a12844a49a1e3f397a93a, type: 3}
+--- !u!1 &1129372613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1129372614}
+  m_Layer: 0
+  m_Name: BULLETSPAWN
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1129372614
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1129372613}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0.000024691224}
+  m_LocalPosition: {x: -0.1, y: 0, z: -1.27}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 101209691}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 179.99701, z: 0}
 --- !u!1001 &1139163484
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5887,7 +6060,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (10)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -6678,7 +6851,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (11)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -6821,7 +6994,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (2)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -7102,7 +7275,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (4)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -7175,32 +7348,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9e009d84973ab148ac873abd94aaf61, type: 3}
---- !u!1 &1448655526 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 616683739885503217, guid: 31626d174e089bd4c844bf0bc7c6d549,
-    type: 3}
-  m_PrefabInstance: {fileID: 3647123276072178873}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1448655528
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448655526}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b6f332eb9db79d5479bda7ebfd02db72, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 0.5
-  targetTR: {fileID: 1599331121}
---- !u!4 &1448655532 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
-    type: 3}
-  m_PrefabInstance: {fileID: 3647123276072178873}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1456169827
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7632,6 +7779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   txtCollisionInfo: {fileID: 707059628}
   panel: {fileID: 416531243}
+  miPistola: {fileID: 101209690}
   targetTR: {fileID: 0}
   speed: 0
   HorseSound: {fileID: 8300000, guid: d3e20d871a14cc64e8d7443b38137b7b, type: 3}
@@ -7758,7 +7906,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513771002}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 99b1f65f3ebc47549ae98521c087850c, type: 3}
   m_Name: 
@@ -7975,7 +8123,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (7)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -8549,7 +8697,7 @@ PrefabInstance:
     - target: {fileID: 7952661347918052699, guid: c57b999f3393b0141b606113cd509cf3,
         type: 3}
       propertyPath: m_Name
-      value: Laberinto (3)
+      value: Laberinto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c57b999f3393b0141b606113cd509cf3, type: 3}
@@ -8861,7 +9009,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bullet: {fileID: 3794104923965327706, guid: 725486f2bc36fa14ea1e33ebb6c4a1e5, type: 3}
-  bulletSpawn: {fileID: 1513771003}
+  bulletSpawn: {fileID: 1129372614}
   reloadTime: 0
   inacuracy: 0
 --- !u!4 &1804077128
@@ -11207,7 +11355,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 313309493}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 114669269738370152, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -11267,7 +11415,7 @@ PrefabInstance:
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -11277,7 +11425,7 @@ PrefabInstance:
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
@@ -11287,7 +11435,7 @@ PrefabInstance:
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 616683739885674193, guid: 31626d174e089bd4c844bf0bc7c6d549,
         type: 3}

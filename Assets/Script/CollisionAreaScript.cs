@@ -7,6 +7,7 @@ public class CollisionAreaScript : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI txtCollisionInfo;
     [SerializeField] GameObject panel;
+    [SerializeField] GameObject miPistola;
 
     bool isColliding = false;
     GameObject colisionador;
@@ -54,6 +55,7 @@ public class CollisionAreaScript : MonoBehaviour
             {
                 Destroy(colisionador);
                 ObjetosManager.tengoPistola = true;
+                miPistola.SetActive(true);
                 ReloadAudio();
                 hidePanelandText();
             }
@@ -61,7 +63,7 @@ public class CollisionAreaScript : MonoBehaviour
             {
                 caballo = colisionador;
                 ObjetosManager.tengoCaballo = true;
-                turnToLookAt();
+                Destroy(colisionador);
                 HorseAudio();
                 hidePanelandText();
             }
@@ -108,17 +110,6 @@ public class CollisionAreaScript : MonoBehaviour
     void mostrarUI(string collision)
     {
         txtCollisionInfo.text = "Presione E para agarrar " + collision;
-    }
-    void turnToLookAt()
-    {
-        Vector3 currentEulerAngles = transform.eulerAngles;
-        transform.LookAt(targetTR);
-        transform.eulerAngles = new Vector3(currentEulerAngles.x, transform.eulerAngles.y, currentEulerAngles.z);
-    }
-    void HorseMovement()
-    {
-        var step = speed * Time.deltaTime;
-        transform.position = Vector3.MoveTowards(transform.position, targetTR.position, step);
     }
 
     void HorseAudio()
