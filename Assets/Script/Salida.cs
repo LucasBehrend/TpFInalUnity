@@ -7,6 +7,8 @@ public class Salida : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI txtGanaste;
     [SerializeField] GameObject panelGanaste;
+    public AudioSource audioSource;
+    public AudioClip victorySound;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,10 +27,17 @@ public class Salida : MonoBehaviour
         if(ObjetosManager.TengoTodosLosObjetos())
         {
             txtGanaste.text = "¡Felicidades! Escapaste del laberinto.";
+            
         }
         else
         {
             txtGanaste.text = "Aún te faltan objetos para poder salir.";
         }
+    }
+
+    public void VictoryAudio()
+    {
+        audioSource.clip = victorySound;
+        audioSource.Play();
     }
 }

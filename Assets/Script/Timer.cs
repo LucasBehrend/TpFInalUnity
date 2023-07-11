@@ -14,6 +14,7 @@ public class Timer : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip AlarmaSound;
     public AudioClip GameSound;
+    public AudioClip failSound;
     bool alarma = false;
     bool gameaudio = false;
     // Start is called before the first frame update
@@ -55,6 +56,7 @@ public class Timer : MonoBehaviour
             panelPerdiste.SetActive(true);
             txtPerdiste.gameObject.SetActive(true);
             txtPerdiste.text = "PERDISTE. Se te acabó el tiempo.";
+            FailAudio();
         }
         txtTimer.text = currentMin.ToString() + ":" + currentSec.ToString("0");
     }
@@ -69,5 +71,10 @@ public class Timer : MonoBehaviour
         audioSource.clip = GameSound;
         audioSource.Play();
         gameaudio = true;
+    }
+    public void FailAudio() 
+    {
+        audioSource.clip = failSound;
+        audioSource.Play();
     }
 }
