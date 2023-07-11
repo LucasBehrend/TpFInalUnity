@@ -57,7 +57,7 @@ public class CollisionAreaScript : MonoBehaviour
                 ReloadAudio();
                 hidePanelandText();
             }
-            if (colisionador.name == "Caballo" && ObjetosManager.tengoMate)
+            if (colisionador.name == "Caballo" && ObjetosManager.tengoMate && !ObjetosManager.tengoCaballo)
             {
                 caballo = colisionador;
                 ObjetosManager.tengoCaballo = true;

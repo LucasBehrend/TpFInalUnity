@@ -11,9 +11,9 @@ public class TurnToLookAt : MonoBehaviour
     {
         if (ObjetosManager.tengoCaballo)
         {
-            Vector3 currentEulerAngles = transform.eulerAngles;
+            //Vector3 currentEulerAngles = transform.eulerAngles;
             transform.LookAt(targetTR);
-            transform.eulerAngles = new Vector3(-currentEulerAngles.x, -transform.eulerAngles.y, -currentEulerAngles.z);
+            //transform.eulerAngles = new Vector3(currentEulerAngles.x, transform.eulerAngles.y, currentEulerAngles.z);
         }
     }
 }
