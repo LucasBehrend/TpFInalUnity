@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 616683739885674193}
   - component: {fileID: 616683739884379889}
   - component: {fileID: 616683739883248689}
-  - component: {fileID: 64357689775608532}
-  - component: {fileID: 114755918378627076}
-  - component: {fileID: 114882885595549812}
+  - component: {fileID: 114864267390570082}
+  - component: {fileID: 114669269738370152}
+  - component: {fileID: 65961700078622924}
   m_Layer: 0
   m_Name: Caballo
   m_TagString: Untagged
@@ -28,7 +28,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 616683739885503217}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.06, y: 1.18, z: 10.610749}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -80,8 +80,35 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &64357689775608532
-MeshCollider:
+--- !u!114 &114864267390570082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616683739885503217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f332eb9db79d5479bda7ebfd02db72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  targetTR: {fileID: 0}
+--- !u!114 &114669269738370152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616683739885503217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e6ad55f985393f498623a82f41a75e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTR: {fileID: 0}
+--- !u!65 &65961700078622924
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -90,34 +117,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 1
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: ab5826224ddc4314fa2dad5c48eb4885, type: 3}
---- !u!114 &114755918378627076
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 616683739885503217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9acacf03928f8d49b457b86054bd091, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 0
-  targetTR: {fileID: 0}
---- !u!114 &114882885595549812
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 616683739885503217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cde224cc1267df242b1016ab0d8d8ab8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetTR: {fileID: 0}
+  serializedVersion: 2
+  m_Size: {x: 0.5003036, y: 2.0526557, z: 2.2000198}
+  m_Center: {x: 0, y: -0.007974982, z: -0.15176824}

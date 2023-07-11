@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 220752232469122633}
   - component: {fileID: 220752232466222697}
   - component: {fileID: 220752232467352745}
-  - component: {fileID: 220752232953996825}
+  - component: {fileID: 65789739800287536}
   m_Layer: 0
-  m_Name: BehrendLucas_4toB_Boleadoras
+  m_Name: Boleadora
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78,8 +78,8 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!64 &220752232953996825
-MeshCollider:
+--- !u!65 &65789739800287536
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -88,7 +88,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 1
-  m_CookingOptions: 14
-  m_Mesh: {fileID: 4300000, guid: 1c1af1667b24819488f5415acf265a06, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.14996874, y: 0.27920172, z: 0.18582305}
+  m_Center: {x: -0.031098422, y: 0.015217032, z: -0.049025577}

@@ -24,7 +24,11 @@ public class Salida : MonoBehaviour
         panelGanaste.SetActive(true);
         if(ObjetosManager.TengoTodosLosObjetos())
         {
-
+            txtGanaste.text = "¡Felicidades! Escapaste del laberinto.";
+        }
+        else
+        {
+            txtGanaste.text = "Aún te faltan objetos para poder salir.";
         }
     }
 }

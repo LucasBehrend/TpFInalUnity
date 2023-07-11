@@ -27,14 +27,14 @@ public class CollisionAreaScript : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        //nel.SetActive(false);
+        panel.SetActive(false);
 
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.E) && isColliding)
+        if (Input.GetKey(KeyCode.E) && isColliding )
         {
             if (colisionador.name == "Boleadora")
             {
@@ -57,7 +57,7 @@ public class CollisionAreaScript : MonoBehaviour
                 ReloadAudio();
                 hidePanelandText();
             }
-            if (colisionador.name == "Caballo")
+            if (colisionador.name == "Caballo" && ObjetosManager.tengoMate)
             {
                 caballo = colisionador;
                 ObjetosManager.tengoCaballo = true;
@@ -65,6 +65,11 @@ public class CollisionAreaScript : MonoBehaviour
                 HorseAudio();
                 hidePanelandText();
             }
+            if (colisionador.name == "Caballo" && !ObjetosManager.tengoMate)
+            {
+                txtCollisionInfo.text = "Tu caballo está sediento. Dale Mate :)";
+            }
+
             if (colisionador.name == "Botella")
             {
                 Destroy(colisionador);
@@ -87,6 +92,7 @@ public class CollisionAreaScript : MonoBehaviour
         if (collision.gameObject.name == "Boleadora" || collision.gameObject.name == "Caballo" || collision.gameObject.name == "Guitarra" || collision.gameObject.name == "Botella" || collision.gameObject.name == "Pistola" || collision.gameObject.name == "Mate")
         {
             panel.SetActive(true);
+            txtCollisionInfo.gameObject.SetActive(true);
             isColliding = true;
             txtCollisionInfo.text = collision.gameObject.name;
             colisionador = collision.gameObject;
@@ -95,6 +101,7 @@ public class CollisionAreaScript : MonoBehaviour
     }
     private void OnCollisionExit(Collision collision)
     {
+        isColliding = false;
         panel.SetActive(false);
         txtCollisionInfo.text = "";
     }
