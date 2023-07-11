@@ -6,12 +6,14 @@ using TMPro;
 public class DialogosIndex : MonoBehaviour
 {
     [SerializeField] string[] txtindex;
-    [SerializeField] int currentIndex = 0;
+    [SerializeField] int currentIndex = 1;
     [SerializeField] TextMeshProUGUI Indextxt;
+    [SerializeField] GameObject panel;
     // Start is called before the first frame update
     void Start()
     {
-        Indextxt.text = string.Empty;
+        Indextxt.text = txtindex[0];
+        panel.SetActive(true);
     }
 
     // Update is called once per frame
@@ -31,13 +33,15 @@ public class DialogosIndex : MonoBehaviour
         if (currentIndex < txtindex.Length)
         {
             currentIndex++;
+            if(currentIndex == txtindex.Length)
+            {
+                Indextxt.gameObject.SetActive(false);
+                panel.SetActive(false);
+            }
             Indextxt.text = txtindex[currentIndex];
+            
         }
-        else if (currentIndex == txtindex.Length)
-        {
-            Indextxt.text = string.Empty;
-            Destroy(Indextxt);
-        }
+        
     }
     public void PreviousSentence()
     {

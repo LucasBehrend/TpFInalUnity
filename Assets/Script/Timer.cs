@@ -13,20 +13,30 @@ public class Timer : MonoBehaviour
     [SerializeField] GameObject player;
     public AudioSource audioSource;
     public AudioClip AlarmaSound;
-
+    public AudioClip GameSound;
+    bool alarma = false;
+    bool gameaudio = false;
     // Start is called before the first frame update
     void Start()
     {
-        audioSource = CollisionAreaScript.audioSource ;
+        audioSource = GetComponent<AudioSource>();
         panelPerdiste.SetActive(false);
         txtPerdiste.gameObject.SetActive(false);
+        AudioGame();
     }
 
     // Update is called once per frame
     void Update()
     {
         currentSec -= Time.deltaTime;
-        if (currentSec == 10 && currentMin == 0)
+
+        if(currentMin == 5 && currentSec==0 /*&& !gameaudio*/)
+        {
+
+            AudioGame();
+        }
+            
+        if (currentSec <= 10 && currentMin == 0 && !alarma)
         {
             AudioDiezSeg();
         }
@@ -48,9 +58,16 @@ public class Timer : MonoBehaviour
         }
         txtTimer.text = currentMin.ToString() + ":" + currentSec.ToString("0");
     }
-    void AudioDiezSeg()
+    public void AudioDiezSeg()
     {
-            audioSource.clip = AlarmaSound;
-            audioSource.Play();
+        audioSource.clip = AlarmaSound;
+        audioSource.Play();
+        alarma = true;
+    }
+    public void AudioGame()
+    {
+        audioSource.clip = GameSound;
+        audioSource.Play();
+        gameaudio = true;
     }
 }

@@ -9,8 +9,11 @@ public class TurnToLookAt : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 currentEulerAngles = transform.eulerAngles;
-        transform.LookAt(targetTR);
-        transform.eulerAngles = new Vector3(currentEulerAngles.x, transform.eulerAngles.y, currentEulerAngles.z);
+        if (ObjetosManager.tengoCaballo)
+        {
+            Vector3 currentEulerAngles = transform.eulerAngles;
+            transform.LookAt(targetTR);
+            transform.eulerAngles = new Vector3(-currentEulerAngles.x, -transform.eulerAngles.y, -currentEulerAngles.z);
+        }
     }
 }
