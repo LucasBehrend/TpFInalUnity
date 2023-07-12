@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
+
 public class Timer : MonoBehaviour
 {
 
@@ -16,7 +18,7 @@ public class Timer : MonoBehaviour
     public AudioClip GameSound;
     public AudioClip failSound;
     bool alarma = false;
-    bool gameaudio = false;
+    bool perdiste = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,36 +31,45 @@ public class Timer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        currentSec -= Time.deltaTime;
-
-        if(currentMin == 5 && currentSec==0 /*&& !gameaudio*/)
+        if (currentMin >= 0)
         {
+            currentSec -= Time.deltaTime;
 
-            AudioGame();
-        }
-            
-        if (currentSec <= 10 && currentMin == 0 && !alarma)
-        {
-            AudioDiezSeg();
-        }
+            if (currentMin == 5 && currentSec == 0)
+            {
 
-        if (currentSec < 0)
-        {
-            currentMin--;
-            currentSec = 59;
-        }
+                AudioGame();
+            }
 
-        if (currentMin < 0)
-        {
-            currentMin = 0;
-            currentSec = 0;
-            //player.SetActive(false);
-            panelPerdiste.SetActive(true);
-            txtPerdiste.gameObject.SetActive(true);
-            txtPerdiste.text = "PERDISTE. Se te acabó el tiempo.";
+            if (currentSec <= 10 && currentMin == 0 && !alarma)
+            {
+                AudioDiezSeg();
+            }
+
+            if (currentSec < 0)
+            {
+                currentMin--;
+                currentSec = 59;
+            }
+
+            if (currentMin < 0)
+            {
+                //currentMin = 0;
+                //currentSec = 0;
+                //player.SetActive(false);
+                panelPerdiste.SetActive(true);
+                txtPerdiste.gameObject.SetActive(true);
+                txtPerdiste.text = "PERDISTE. Se te acabó el tiempo.";
+                panelPerdiste.GetComponent<Image>().color = Color.red;
+                perdiste = true;
+
+
+            }
             FailAudio();
+
+
+            txtTimer.text = currentMin.ToString() + ":" + currentSec.ToString("0");
         }
-        txtTimer.text = currentMin.ToString() + ":" + currentSec.ToString("0");
     }
     public void AudioDiezSeg()
     {
@@ -70,11 +81,15 @@ public class Timer : MonoBehaviour
     {
         audioSource.clip = GameSound;
         audioSource.Play();
-        gameaudio = true;
     }
     public void FailAudio() 
     {
-        audioSource.clip = failSound;
-        audioSource.Play();
+        if (perdiste)
+        {
+            audioSource.clip = failSound;
+            audioSource.Play();
+            perdiste = false;
+        }
+        
     }
 }
